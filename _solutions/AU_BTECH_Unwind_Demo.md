@@ -2,7 +2,7 @@
 short_name: AU_Unwind
 name: AU_BTECH_Unwind_Demo
 testbed_url: https://gitlab.au.dk/au_btech/unwind_testbed/
-provider_logo: Logos/Unwind-logo.png
+provider_logo: Logos/AU-logo.jpg
 city_country: BTECH, Herning, Aarhus University, Denmark
 domains: (Renewable) Energy, Wind Turbine Supply Chain
 use-cases: In the wind industry supply chain, involving stakeholders like bolt vendors, turbine operators, and service engineers, challenges such as system heterogeneity, lack of trust, interoperability, and limited traceability hinder efficient operations. By integrating IoT, blockchain, and edge computing, the ecosystem can achieve secure, transparent, and digitally traceable event logging throughout a turbine's lifecycle. This enables real-time monitoring, predictive maintenance, and proactive decision-making, ultimately leading to higher trust, operational efficiency, and sustainable maintenance practices.
