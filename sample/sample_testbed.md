@@ -1,9 +1,9 @@
 ---
-short_name: acronym
-name: title of the testbed
+short_name: Unwind
+name: Unwind Demo
 testbed_url: url of the testbed
 provider_logo: logos/yourlogo.png
-city_country: location, city and country
+city_country: Aarhus University, city and country
 domains: european competitiveness domains, select one of the usual such as Agriculture, Energy, Transport, Manufacturing, Space, Society, Health
 use-cases: use-cases supported
 contact: e-mail and name
