@@ -12,7 +12,7 @@ partner_access: local(operators can come and expeirence installation, digital tr
 testbed_stage: deployed testbed
 description: This use case addresses the challenge of enhancing traceability, transparency, and efficiency in the wind industry’s multi-tier supply chain using a Technologies convergence solution. Focusing on commodity components like bolts and fasteners, a lab-scale prototype demonstrated how the convergence of blockchain, IoT, Edge computing and AI enables secure, real-time data sharing and predicted operational visibility. Qualitative feedback from industry experts validated the approach, highlighting its potential to scale across other components and advance the integration of distributed technologies at the edge.
 technology: Ethereum, HyperLedgerFabric, Bluetooth, IoT, Turbine, , QR Code, Digital Tracebility methods, Quality operations, Renewable Energy, RaspberryPi, Node-Red, REST API, Web3, Ganache.
-hardware: Turbine, 12 Bolt, Rasperry Pi, Digital Wrnech, Bar/QR code Scanner
-software: NodeRed, Solidity, NodeJS, Hyperledger Fabric, Ethereum, AWS Cloud, TCP/SSH Tunnels.
+hardware: Turbine, Bolt (12 cm), Rasperry Pi, Digital Wrnech, Bar/QR code Scanner
+software: NodeRed, Solidity, NodeJS, Hyperledger Fabric, Ethereum, AWS Cloud, TCP/SSH Tunnels, Dashboard.
 
 ---
